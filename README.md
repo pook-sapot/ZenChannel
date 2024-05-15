@@ -1,4 +1,5 @@
 # Zen Channel
+https://pook-sapot.github.io/ZenChannel/
 
-A Pen created on CodePen.io. Original URL: [https://codepen.io/heyzel/pen/MWdYgme](https://codepen.io/heyzel/pen/MWdYgme).
+A Pen created on CodePen.io.
 
